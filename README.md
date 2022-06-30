@@ -6,7 +6,7 @@ supported (using debootstrap behind the scenes), but "Chromium OS Debian,
 Ubuntu, and Probably Other Distros Eventually Chroot Environment" doesn't
 acronymize as well (crodupodece is admittedly pretty fun to say, though).
 
-### crouton is now maintenance-only
+### crouton is now maintenance-only (from original version)
 
 This means that:
  * Only bugfix and release list PRs will be accepted.
